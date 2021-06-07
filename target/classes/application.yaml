@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: chaos-filter-exception
-  profiles:
-    active: chaos-monkey
